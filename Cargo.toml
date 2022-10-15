@@ -1,5 +1,5 @@
 [package]
-name = "Unix-Server-Auditor"
+name = "unix_server_auditor"
 version = "0.1.0"
 edition = "2021"
 
